@@ -1,0 +1,43 @@
+[
+  {
+    "id": "rules2021",
+    "url": "https://historyzh.sysu.edu.cn/node/1209",
+    "landing": "https://historyzh.sysu.edu.cn/node/1209",
+    "file": "rules2021.html",
+    "sha256": "488d688e9f51a2a5ddbeeab89338ea9819734c7b9aa407376cf3095305808406",
+    "download_date": "2026-10-10"
+  },
+  {
+    "id": "exchange",
+    "url": "https://phil-zh.sysu.edu.cn/sites/default/files/2018-06/%E4%B8%AD%E5%B1%B1%E5%A4%A7%E5%AD%A6%E6%9C%AC%E7%A7%91%E4%BA%A4%E6%B5%81%E7%94%9F%E5%AD%A6%E7%B1%8D%E7%AE%A1%E7%90%86%E5%8A%9E%E6%B3%95.pdf",
+    "landing": "https://phil-zh.sysu.edu.cn/zh-hans/article/204",
+    "file": "exchange.pdf",
+    "sha256": "bd0acce8abdd9aa5d231b7aa4d399422b0fc23cc1d32639b4814ae71a45b13b4",
+    "download_date": "2026-10-10"
+  },
+  {
+    "id": "transfer",
+    "url": "https://jwb.sysu.edu.cn/sites/default/files/2021-09/%E4%B8%AD%E5%B1%B1%E5%A4%A7%E5%AD%A6%E5%85%A8%E6%97%A5%E5%88%B6%E6%9C%AC%E7%A7%91%E7%94%9F%E8%BD%AC%E4%B8%93%E4%B8%9A%E5%AE%9E%E6%96%BD%E5%8A%9E%E6%B3%95.pdf",
+    "landing": "https://jwb.sysu.edu.cn/sites/default/files/2021-09/%E4%B8%AD%E5%B1%B1%E5%A4%A7%E5%AD%A6%E5%85%A8%E6%97%A5%E5%88%B6%E6%9C%AC%E7%A7%91%E7%94%9F%E8%BD%AC%E4%B8%93%E4%B8%9A%E5%AE%9E%E6%96%BD%E5%8A%9E%E6%B3%95.pdf",
+    "file": "transfer.pdf",
+    "sha256": "44f222a35c47ac932f8c6eab950ed89b9e893c70788b8738b5aa9e330ede0bae",
+    "download_date": "2026-10-10"
+  },
+  {
+    "id": "thesis",
+    "file": "thesis.docx",
+    "url": "https://bus.sysu.edu.cn/sites/default/files/inline-files/%E9%99%84%E4%BB%B64.%E4%B8%AD%E5%B1%B1%E5%A4%A7%E5%AD%A6%E6%9C%AC%E7%A7%91%E7%94%9F%E6%AF%95%E4%B8%9A%E8%AE%BA%E6%96%87%EF%BC%88%E8%AE%BE%E8%AE%A1%EF%BC%89%E5%B7%A5%E4%BD%9C%E7%AE%A1%E7%90%86%E8%A7%84%E5%AE%9A.docx",
+    "landing": "https://bus.sysu.edu.cn/article/7833",
+    "sha256": "7358df73b707944919c72a759e9e91060db65afe78344adde33df75087f24b25",
+    "download_date": "2026-10-10"
+  },
+  {
+    "id": "faq",
+    "url": "https://jwb.sysu.edu.cn/sites/default/files/2022-02/JWBQA.pdf",
+    "landing": "https://jwb.sysu.edu.cn/sites/default/files/2022-02/JWBQA.pdf",
+    "file": "sysu_qa.pdf",
+    "sha256": "123df499365125641461e7943f07dea2f09c675cfcbda4acfb8a3e92f358332b",
+    "download_date": "2026-10-10",
+    "role": "question source only; not indexed"
+  }
+]

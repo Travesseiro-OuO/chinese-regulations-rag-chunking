@@ -1,0 +1,11 @@
+secrets/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+rerun-results/
