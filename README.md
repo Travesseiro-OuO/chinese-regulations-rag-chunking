@@ -96,6 +96,6 @@ sudo rm secrets/deepseek_key
 
 ## 代码使用
 
-本项目原创 Python 与 shell 代码以 MIT 许可提供（见 LICENSE）。第三方文档、模型和模型响应不自动继承该许可。本仓库当前为私有仓库，不应据此声称已满足公开开源仓库加分要求。
+本项目原创 Python 与 shell 代码以 MIT 许可提供（见 LICENSE）。第三方文档、模型和模型响应不自动继承该许可。公开项目仓库：https://github.com/Travesseiro-OuO/chinese-regulations-rag-chunking。
 
 重新下载公开文档可运行 `python src/download_sources.py`，默认写入 `data/downloaded_raw`，不覆盖实验快照；脚本依赖 curl，并报告与原快照的哈希是否一致。
